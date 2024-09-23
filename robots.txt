@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icapida.github.io/sitemap.html.gz
+Sitemap: https://icapida.github.io/app/sitemap.html.gz
+Sitemap: https://icapida.github.io/assets/sitemap.html.gz
+Sitemap: https://icapida.github.io/css/sitemap.html.gz
+Sitemap: https://icapida.github.io/data/sitemap.html.gz
+Sitemap: https://icapida.github.io/includes/sitemap.html.gz
+Sitemap: https://icapida.github.io/item/sitemap.html.gz
+Sitemap: https://icapida.github.io/src/sitemap.html.gz
